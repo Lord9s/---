@@ -1,23 +1,23 @@
 {
   "author": "Nayan",
-  "autoRestart": true,
+  "autoRestart": false,
   "accpetPending": false,
   "developermode": false,
   "language": "en",
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "[?]◦•●◉✿𝙇𝙤𝙧𝙙 𝙠𝙞𝙣𝙜 𝘽𝙤𝙩✿◉●•",
+  "PREFIX": "?",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100090764310659",
+    "61560050885709"
   ],
   "ADMINBOT": [
-    "100000959749712",
-    ""
+    "61560050885709",
+    "100090764310659"
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["61560050885709"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
